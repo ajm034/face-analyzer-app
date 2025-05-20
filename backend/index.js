@@ -10,7 +10,10 @@ const services = JSON.parse(fs.readFileSync(servicesFilePath, 'utf8'));
 
 // 2
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: 'https://face-analyzer-frontend.onrender.com',
+  credentials: true
+} ));
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 app.get('/', (_req, res) => res.send('Face-Analyzer is live.'));
