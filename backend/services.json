@@ -1,0 +1,407 @@
+{
+  "Skin Lifting & Tightening": [
+    {
+      "name": "HIFU for Face",
+      "description": "",
+      "problems_treated": [
+        "Sagging facial skin",
+        "Loss of firmness in cheeks & jawline"
+      ],
+      "enhancements": [
+        "Non-surgical \u201clift\u201d effect (subtle facelift)",
+        "Sharper jawline contour",
+        "Smoother skin texture"
+      ]
+    },
+    {
+      "name": "HIFU for Neck",
+      "description": "",
+      "problems_treated": [
+        "Sagging neck skin",
+        "Horizontal neck lines"
+      ],
+      "enhancements": [
+        "Firmer, more U-shaped neck profile",
+        "Reduced \u201cturkey neck\u201d appearance"
+      ]
+    },
+    {
+      "name": "Threads for Face",
+      "description": "",
+      "problems_treated": [
+        "Facial laxity (overall sagging)",
+        "Mild to moderate wrinkles"
+      ],
+      "enhancements": [
+        "Immediate lift of cheeks & midface",
+        "Defined cheekbones & jawline"
+      ]
+    },
+    {
+      "name": "Threads for Neck",
+      "description": "",
+      "problems_treated": [
+        "Loose neck skin",
+        "Early jowling"
+      ],
+      "enhancements": [
+        "Smoother neck contours",
+        "Tighter skin under chin"
+      ]
+    },
+    {
+      "name": "Threads for Eyebrows (Foxy Eyes)",
+      "description": "",
+      "problems_treated": [
+        "Hooded or drooping brows"
+      ],
+      "enhancements": [
+        "Elevated outer brow (\u201cfox eye\u201d)",
+        "Elongated, lifted eye shape"
+      ]
+    },
+    {
+      "name": "Threads for Nose",
+      "description": "",
+      "problems_treated": [
+        "Drooping nasal tip",
+        "Deep nasolabial folds beside nose"
+      ],
+      "enhancements": [
+        "Subtle nose lift & tip refinement",
+        "Softening of nasolabial shadow"
+      ]
+    },
+    {
+      "name": "Sculptra for Face",
+      "description": "",
+      "problems_treated": [
+        "Volume loss (cheeks, temples, midface)",
+        "Fine lines & overall laxity"
+      ],
+      "enhancements": [
+        "Gradual collagen stimulation",
+        "Fuller, more youthful contours"
+      ]
+    },
+    {
+      "name": "Sculptra for Neck",
+      "description": "",
+      "problems_treated": [
+        "Mild neck skin looseness"
+      ],
+      "enhancements": [
+        "Improved neck firmness",
+        "Smoother horizontal lines"
+      ]
+    }
+  ],
+  "Botox Services": [
+    {
+      "name": "Full Face Botox",
+      "description": "",
+      "problems_treated": [
+        "Dynamic wrinkles across the face"
+      ],
+      "enhancements": [
+        "Overall smoother, rested appearance",
+        "Subtle lift of brow & cheeks"
+      ]
+    },
+    {
+      "name": "Forehead & Eyes Botox",
+      "description": "",
+      "problems_treated": [
+        "Forehead lines",
+        "Crow\u2019s-feet around eyes"
+      ],
+      "enhancements": [
+        "Softer, more relaxed brow",
+        "Brighter, less \u201ctired\u201d eye area"
+      ]
+    },
+    {
+      "name": "Neck Botox",
+      "description": "",
+      "problems_treated": [
+        "Fine horizontal neck lines"
+      ],
+      "enhancements": [
+        "Cleaner, more elegant neck silhouette"
+      ]
+    },
+    {
+      "name": "Nose Botox",
+      "description": "",
+      "problems_treated": [
+        "Bunny lines (across nose)"
+      ],
+      "enhancements": [
+        "Smoother nasal bridge",
+        "Balanced nasal expression"
+      ]
+    },
+    {
+      "name": "Shoulder Botox",
+      "description": "",
+      "problems_treated": [
+        "Hyperactive shoulder muscles causing poor posture"
+      ],
+      "enhancements": [
+        "Improved, more graceful shoulder line",
+        "Subtly slimmer upper silhouette"
+      ]
+    }
+  ],
+  "Skin Refining & Rejuvenation": [
+    {
+      "name": "Mesotherapy Injection",
+      "description": "",
+      "problems_treated": [
+        "Localized black spots, melasma, pigmentation"
+      ],
+      "enhancements": [
+        "Brighter, more even-toned target areas"
+      ]
+    },
+    {
+      "name": "DermaPen (Microneedling) + Mesotherapy",
+      "description": "",
+      "problems_treated": [
+        "Diffuse pigmentation, rough texture"
+      ],
+      "enhancements": [
+        "Smoother overall texture",
+        "Uniform skin tone"
+      ]
+    },
+    {
+      "name": "RF Microneedling",
+      "description": "",
+      "problems_treated": [
+        "Acne scars & facial scars"
+      ],
+      "enhancements": [
+        "Refined texture, reduced pore size",
+        "Firmer skin"
+      ]
+    },
+    {
+      "name": "Profhilo Skin Booster",
+      "description": "",
+      "problems_treated": [
+        "Mild dehydration & early laxity"
+      ],
+      "enhancements": [
+        "Deep hydration (\u201cskin plumping\u201d)",
+        "Subtle lift and improved elasticity"
+      ]
+    },
+    {
+      "name": "Jalupro Skin Booster",
+      "description": "",
+      "problems_treated": [
+        "Dehydrated skin"
+      ],
+      "enhancements": [
+        "Enhanced moisture retention",
+        "Smoother, supple skin surface"
+      ]
+    },
+    {
+      "name": "PDRN Injection",
+      "description": "",
+      "problems_treated": [
+        "Dehydration, superficial dark spots"
+      ],
+      "enhancements": [
+        "Dewy glow",
+        "Brighter, clearer complexion"
+      ]
+    },
+    {
+      "name": "Exosome (Salmon DNA)",
+      "description": "",
+      "problems_treated": [
+        "Dullness, early signs of aging"
+      ],
+      "enhancements": [
+        "Accelerated cell renewal",
+        "Youthful radiance & glow"
+      ]
+    },
+    {
+      "name": "Standard Hydrafacial",
+      "description": "",
+      "problems_treated": [
+        "Clogged pores, dull skin"
+      ],
+      "enhancements": [
+        "Deep-cleansed complexion",
+        "Immediate glow"
+      ]
+    },
+    {
+      "name": "Signature Hydrafacial",
+      "description": "",
+      "problems_treated": [
+        "Enlarged pores, fine lines"
+      ],
+      "enhancements": [
+        "Minimized pore appearance",
+        "Radiant, smooth finish"
+      ]
+    }
+  ],
+  "Dermal Fillers": [
+    {
+      "name": "Under Eyes Filler",
+      "description": "",
+      "problems_treated": [
+        "Tear-trough hollows"
+      ],
+      "enhancements": [
+        "Refreshed, less \u201ctired\u201d look"
+      ]
+    },
+    {
+      "name": "Lips Filler",
+      "description": "",
+      "problems_treated": [
+        "Thin or uneven lips"
+      ],
+      "enhancements": [
+        "Fuller, more defined pout"
+      ]
+    },
+    {
+      "name": "Nose Filler",
+      "description": "",
+      "problems_treated": [
+        "Uneven nasal contour"
+      ],
+      "enhancements": [
+        "Non-surgical nose reshaping",
+        "Smooth nasal dorsum"
+      ]
+    },
+    {
+      "name": "Cheeks Filler",
+      "description": "",
+      "problems_treated": [
+        "Midface volume loss"
+      ],
+      "enhancements": [
+        "Elevated cheekbones",
+        "Youthful facial architecture"
+      ]
+    },
+    {
+      "name": "Jawline Filler",
+      "description": "",
+      "problems_treated": [
+        "Weak or undefined jawline"
+      ],
+      "enhancements": [
+        "Sharper, more sculpted jaw"
+      ]
+    },
+    {
+      "name": "Chin Filler",
+      "description": "",
+      "problems_treated": [
+        "Recessed chin"
+      ],
+      "enhancements": [
+        "Balanced facial profile",
+        "Improved chin projection"
+      ]
+    },
+    {
+      "name": "Laugh Lines (Nasolabial Folds) Filler",
+      "description": "",
+      "problems_treated": [
+        "Deep smile lines"
+      ],
+      "enhancements": [
+        "Smoother midface appearance"
+      ]
+    },
+    {
+      "name": "Temples Filler",
+      "description": "",
+      "problems_treated": [
+        "Hollow temples"
+      ],
+      "enhancements": [
+        "Fuller, more harmonious brow-cheek transition"
+      ]
+    }
+  ],
+  "Fat Removal": [
+    {
+      "name": "Double Chin Liposuction",
+      "description": "",
+      "problems_treated": [
+        "Excess fat under chin"
+      ],
+      "enhancements": [
+        "Defined jawline & slimmer neck"
+      ]
+    },
+    {
+      "name": "Buccal Fat Removal",
+      "description": "",
+      "problems_treated": [
+        "Fullness in lower cheeks"
+      ],
+      "enhancements": [
+        "Contoured, chiseled cheek appearance"
+      ]
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "name": "Skin Tag & Mole Removal",
+      "description": "",
+      "problems_treated": [
+        "Skin tags, unwanted moles"
+      ],
+      "enhancements": [
+        "Smooth, clear skin surface"
+      ]
+    }
+  ],
+  "Tattoo-Style Cosmetic Services": [
+    {
+      "name": "Lip Correction Tattoo",
+      "description": "",
+      "problems_treated": [
+        "Dark or uneven lip pigmentation"
+      ],
+      "enhancements": [
+        "Even, brighter lip color"
+      ]
+    },
+    {
+      "name": "Microblading",
+      "description": "",
+      "problems_treated": [
+        "Sparse or uneven eyebrows"
+      ],
+      "enhancements": [
+        "Natural-looking, fuller brows"
+      ]
+    },
+    {
+      "name": "Lip Blush Tattoo",
+      "description": "",
+      "problems_treated": [
+        "Pale or low-color lips"
+      ],
+      "enhancements": [
+        "Subtle tint & defined lip border"
+      ]
+    }
+  ]
+}
