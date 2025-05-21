@@ -18,7 +18,22 @@ const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 app.get('/', (_req, res) => res.send('Face-Analyzer is live.'));
 app.use(express.raw({ type: '*/*', limit: '10mb' }));
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
+// Update your /analyze endpoint to handle both raw and JSON data
+app.post('/analyze', async (req, res) => {
+  try {
+    let imageData;
+    
+    // Handle different request formats
+    if (req.is('application/json')) {
+      // If JSON data with base64 image
+      imageData = req.body.image;
+    } else {
+      // If raw binary data
+      imageData = req.body.toString('base64');
+    }
 function extractJsonFromString(str) {
   if (!str || typeof str !== 'string') return null;
   const markdownMatch = str.match(/```json\n([\s\S]*?)\n```/);
